@@ -1,6 +1,6 @@
-# guilherme
+# Guilherme 
 
-My name is Guilherme, i am a willing to be a full-stack developer
+# Oi, meu nome é Gui e eu quero me tornar um desenvolvedor full-stack
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiexx2&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
