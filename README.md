@@ -1,4 +1,5 @@
-<a href="https://github.com/Guiexx2">
+
+  
 ## Bem-Vindo
 
 # Oi, meu nome é Gui e eu quero me tornar um desenvolvedor full-stack
