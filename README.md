@@ -1,13 +1,11 @@
-
   
 ## Bem-Vindo
 
-# Oi, meu nome é Gui e eu quero me tornar um desenvolvedor full-stack
+### Oi, meu nome é Gui e eu quero me tornar um desenvolvedor full-stack
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiexx2&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 
-#### Main Stack:
+### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -17,10 +15,10 @@
 
 ### Minhas redes sociais abaixo
 
-<div> 
-    <a href="https://www.instagram.com/gui_0r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="Guiexx2#7596" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/@guiexx2287/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "guimichel41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-michel-41035a2a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+* <a href="https://www.instagram.com/gui_0r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+* <a href="Guiexx2#7596" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+* <a href="https://www.youtube.com/@guiexx2287/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+* <a href = "guimichel41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+* <a href="https://www.linkedin.com/in/guilherme-michel-41035a2a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
