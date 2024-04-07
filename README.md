@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![C++]https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
 # 📊 Status do GitHub:
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui0r&layout=compact&langs_count=6&theme=tokyonight"/>
 
