@@ -21,9 +21,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Gui0r&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-## 🏆 Troféis do GitHub:
-![](https://github-profile-trophy.vercel.app/?username=Gui0r&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 ### 🔝 Top contribuições
