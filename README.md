@@ -4,8 +4,8 @@
 
 ### Oi, meu nome é Gui e eu quero me tornar um desenvolvedor full-stack
 
-##
-### Main Stack:
+
+## Main Stack:
 
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 * ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
