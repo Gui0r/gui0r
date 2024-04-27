@@ -1,6 +1,6 @@
 
   
-### Bem-Vindo ao meu GitHub
+# Bem-Vindo ao meu GitHub
 
  Oi, meu nome é Gui e eu quero me tornar um desenvolvedor full-stack
 
@@ -23,7 +23,7 @@
 * ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
   
-# 📊 Status do GitHub:
+## 📊 Status do GitHub:
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui0r&layout=compact&langs_count=6&theme=tokyonight"/>
 
  <br>
@@ -31,7 +31,7 @@
 
 ---
 
-### Minhas redes sociais abaixo
+## Minhas redes sociais abaixo
 
 
 * <a href="https://www.instagram.com/gui_0r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
