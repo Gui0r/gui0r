@@ -1,8 +1,13 @@
 
   
-## Bem-Vindo
+### Bem-Vindo ao meu GitHub
 
-### Oi, meu nome é Gui e eu quero me tornar um desenvolvedor full-stack
+# Oi, meu nome é Gui e eu quero me tornar um desenvolvedor full-stack
+
+  ## Sobre Mim:
+  * 📝 Sou um estudande focado em me tornar um programador Full-Stack
+  * ⭐ Focado em dominar diversar linguagens de programação como C++ e C#
+  * 🎮 Fissurado no desenvolvimento de games
 
 
   ## Main Stack:
