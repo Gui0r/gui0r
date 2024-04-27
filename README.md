@@ -22,8 +22,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui0r&layout=compact&langs_count=6&theme=tokyonight"/>
 
  <br>
-
-![](https://github-readme-stats.vercel.app/api?username=Gui0r&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/>
 
 ---
 
