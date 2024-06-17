@@ -1,4 +1,4 @@
-![q](https://www.google.com/imgres?q=Eu%20programo%20com%20o%20C%23%20imagem&imgurl=http%3A%2F%2Fmontink.s3.amazonaws.com%2Fproduto_imagens%2F157445%2Fphp62rtB8.png&imgrefurl=https%3A%2F%2Fdesnort.com.br%2F%3Fc2%3DCamiseta%26filtro%3Dmenor-preco%26cat%3Dcamisetas&docid=q-Gn8dkXCpLelM&tbnid=AQin1q_BwbTJqM&vet=12ahUKEwiDwt_E1-OGAxXcJ7kGHflBDmwQM3oECBgQAA..i&w=1500&h=1500&hcb=2&itg=1&ved=2ahUKEwiDwt_E1-OGAxXcJ7kGHflBDmwQM3oECBgQAA)
+
   
 # Bem-Vindo ao meu GitHub
 
