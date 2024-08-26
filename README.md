@@ -37,6 +37,9 @@
   
 ## 📊 Status do GitHub:
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui0r&layout=compact&langs_count=6&theme=tokyonight"/>
+![](https://github-readme-stats.vercel.app/api?username=gui0r&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gui0r&theme=shadow_red&hide_border=false)<br/>
+
 
  <br>
 <br/>
